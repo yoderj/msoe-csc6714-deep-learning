@@ -1,0 +1,1 @@
+All readings begin with [this intro text](intro-singletopic-nonbold.md) and end with [this concluding text](conclusion-singletopic.md). Contact Josiah Yoder at MSOE for the scripts to automatically concatenate these together and convert them to HTML for Canvas.
